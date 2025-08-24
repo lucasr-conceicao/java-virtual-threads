@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: java-virtual-threads
+
+server:
+  port: 8081
